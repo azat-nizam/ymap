@@ -8,7 +8,7 @@ function init () {
             searchControlProvider: 'yandex#search'
         }),
         objectManager = new ymaps.ObjectManager({
-            // Кластеризвция меток
+            // Кластеризация меток
             clusterize: true,
             gridSize: 32,
             clusterDisableClickZoom: true
