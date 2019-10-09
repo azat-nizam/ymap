@@ -1,6 +1,6 @@
 ymaps.ready(init);
 
-function init () {
+function init() {
     var fujidaMap = new ymaps.Map('map', {
             center: [53.70, 47.00],
             zoom: 5
